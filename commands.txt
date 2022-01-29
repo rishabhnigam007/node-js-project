@@ -1,0 +1,17 @@
+To create project using command line : npm init
+then give package name, version, description, author,ok
+
+start node server : npm start
+
+install mongodb : npm install mongoose
+install express : npm install express
+install body-parser : npm install body-parser
+install hbs(template engine for frontend) : npm install hbs
+install nodemon (same as devtool) : npm install nodemon --save-dev (for only development environment)
+
+set "start":nodemon app.js in script in package-json file
+
+for background color : https://www.svgbackgrounds.com/
+for icon : https://fontawesome.com/v5.15/icons?d=gallery&p=2
+for svg image : https://www.customshow.com/free-svg/ and https://undraw.co/illustrations
+for demo content : https://www.lipsum.com/feed/html
